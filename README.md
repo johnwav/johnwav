@@ -13,7 +13,7 @@ Quick to learn and master new technologies and grow in already familiar technolo
 
 - Know/Using
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="38">](https://isocpp.org/)  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="c logo" width="38">](http://www.open-std.org/jtc1/sc22/wg14/)  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="40">](https://www.python.org/)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="38">](https://isocpp.org/)  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="c logo" width="38">](http://www.open-std.org/jtc1/sc22/wg14/)  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="40">](https://www.python.org/)  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmVuQZL9qSSivMElNV2CHllcQ4HPxf4yguacA1rJENg&s" alt="vue logo" width="40">](https://www.vuejs.org)
 
 - Learning
 
