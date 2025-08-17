@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Uwaishe </h1>
-<h3 align="center">Software Dev with Mech Eng background. Strong in Javascript, C/C++, and Python. I am creative in solving problems and team player.</h3>
+<h3 align="center">Software Engineer. Strong in Javascript, C/C++, and Python. I am creative in solving problems and team player.</h3>
 
 
 - 🌱 I’m currently learning **Express**
